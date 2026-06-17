@@ -134,7 +134,7 @@ Notable tests:
 
 ---
 
-## Use [Live App](https://aida.streamlit.app)
+## Use [Live App](https://aidassistant.streamlit.app/)
 
 ---
 
